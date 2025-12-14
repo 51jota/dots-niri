@@ -1,0 +1,6 @@
+# see https://github.com/sigoden/aichat/blob/main/config.example.yaml
+
+model: gemini:gemma-3-27b-it
+clients:
+- type: gemini
+  api_key: AIzaSyC9AgUvF2mYCPcPRssZ2gijdPTmsd0FSp8
