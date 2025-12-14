@@ -3,4 +3,4 @@
 model: gemini:gemma-3-27b-it
 clients:
 - type: gemini
-  api_key: AIzaSyC9AgUvF2mYCPcPRssZ2gijdPTmsd0FSp8
+  api_key:
